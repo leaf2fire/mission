@@ -1,2 +1,3 @@
-# mission
-Mission statement
+# Mission (Short)
+
+Master the senses.
